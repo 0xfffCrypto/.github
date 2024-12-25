@@ -29,7 +29,7 @@ You can find our documentation and resources at the following links:
 - [YouTube Channel](https://www.youtube.com/@7tigerCrypto) - Our research team and reports will be published here. We welcome your support and attention!
 
 ## 趣味事实
-我们的团队成员喜欢在早餐时享用各种美食，从燕麦粥到新鲜水果，营养丰富，助力我们一天的工作！
+我们的团队成员分布在亚非美三个地区！
 
 ## Fun facts
 Our team members enjoy a variety of breakfasts, from oatmeal to fresh fruits, providing nutritious fuel for our workday!
