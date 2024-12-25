@@ -31,6 +31,6 @@ You can find our documentation and resources at the following links:
 ## 趣味事实
 我们的团队成员分布在亚非美三个地区！
 
-## Fun facts
-Our team members enjoy a variety of breakfasts, from oatmeal to fresh fruits, providing nutritious fuel for our workday!
+## Fun Facts
+Our team members are distributed across Asia, Africa, and America
 
